@@ -1,4 +1,5 @@
 # Parallex-Effect-Project
+https://chaitanya-works.github.io/Parallex-Effect-Project/
 simple HTML-CSS project showing use of parallex effect to make website look Modern and attractive.
 
 
